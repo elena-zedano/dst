@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Move Explorer tests to scheduled CI (#8305)
