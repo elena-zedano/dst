@@ -1,1 +1,1 @@
-fix predict with class filter
+Allow Annotator PIL.Image inputs (#8397)
